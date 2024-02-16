@@ -1,4 +1,4 @@
-//To check the charator whether it is vowel or consonant and check for invalid input.
+//To check the charactor whether it is vowel or consonant and check for invalid input.
 import java.util.Scanner;
 import java.io.*;
 public class program
