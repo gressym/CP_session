@@ -1,2 +1,2 @@
 # CP_session
-Competitive Programming Seminar
+Competitive Programming Seminar in java
