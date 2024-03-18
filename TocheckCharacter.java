@@ -1,7 +1,7 @@
 //To check the charactor whether it is vowel or consonant and check for invalid input.
 import java.util.Scanner;
 import java.io.*;
-public class program
+public class TocheckCharacter
 {
 	public static void main(String[] args) {
 	    
